@@ -90,4 +90,3 @@ app.post('/',express.json(),(req,res)=>{
 
 });
 
-app.listen(3333,()=>console.log("server is live at port 3333"));
